@@ -1,0 +1,7 @@
+.logo {
+    background-image: url("logo_place_header.svg");
+    width: 228px;
+    height: 32px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
