@@ -1,2 +1,1 @@
-# YandexFrontent2025
-YandexFrontent2025
+# Курс фронтенд
